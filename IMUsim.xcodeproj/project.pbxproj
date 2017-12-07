@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		941B90A51FD5532600E93DED /* IMUsim */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = IMUsim; sourceTree = BUILT_PRODUCTS_DIR; };
 		941B90A81FD5532600E93DED /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		941B90E51FD6EC1F00E93DED /* AHRS_TV.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = AHRS_TV.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 			children = (
 				941B90A71FD5532600E93DED /* IMUsim */,
 				941B90A61FD5532600E93DED /* Products */,
+				941B90E51FD6EC1F00E93DED /* AHRS_TV.cpp */,
 			);
 			sourceTree = "<group>";
 		};
