@@ -40,7 +40,6 @@ double k[N_VAR]; //kalman gain
 char stg[260],stg2[250],stg3[250],stgr[200],stgt[200];
 
 int main() {
-    //   din=fopen("/Users/uea/Documents/xcode/TotalVariationFilter/TotalVariationFilter/magX.txt","r");
     // dout=fopen("/Users/uea/Documents/xcode/TotalVariationFilter/TotalVariationFilter/magXFILT.txt","w");
     din=fopen("/Users/uea/Documents/xcode/IMUsim/IMUsim/circle.txt","r");
     ch3d=fopen("/Users/uea/Documents/xcode/IMUsim/IMUsim/y.obj","r");
